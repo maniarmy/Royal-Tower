@@ -1,0 +1,6 @@
+{
+  "name": "Royal Tower Mohali",
+  "description": "Best Room Rental Services in Mohali offering neat, clean, and affordable rooms for rent for families, couples, and girls, along with private rental rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
